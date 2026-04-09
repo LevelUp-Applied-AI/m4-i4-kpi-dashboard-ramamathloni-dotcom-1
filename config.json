@@ -1,0 +1,6 @@
+{
+    "monthly_revenue_target": 4500,
+    "retention_rate_target": 90.0,
+    "avg_order_value_target": 50.0,
+    "weekly_orders_target": 15
+}
